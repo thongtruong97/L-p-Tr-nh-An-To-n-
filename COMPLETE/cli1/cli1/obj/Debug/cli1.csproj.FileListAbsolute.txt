@@ -1,0 +1,94 @@
+G:\ltat\chatcrypt\cli1\cli1\bin\Debug\cli1.exe.config
+G:\ltat\chatcrypt\cli1\cli1\bin\Debug\cli1.exe
+G:\ltat\chatcrypt\cli1\cli1\bin\Debug\cli1.pdb
+G:\ltat\chatcrypt\cli1\cli1\obj\Debug\cli1.csprojResolveAssemblyReference.cache
+G:\ltat\chatcrypt\cli1\cli1\obj\Debug\cli1.Form1.resources
+G:\ltat\chatcrypt\cli1\cli1\obj\Debug\cli1.Properties.Resources.resources
+G:\ltat\chatcrypt\cli1\cli1\obj\Debug\cli1.csproj.GenerateResource.Cache
+G:\ltat\chatcrypt\cli1\cli1\obj\Debug\cli1.exe
+G:\ltat\chatcrypt\cli1\cli1\obj\Debug\cli1.pdb
+G:\ltat\chatcrypt - Copy\cli1\cli1\bin\Debug\cli1.exe.config
+G:\ltat\chatcrypt - Copy\cli1\cli1\obj\Debug\cli1.exe
+G:\ltat\chatcrypt - Copy\cli1\cli1\obj\Debug\cli1.pdb
+C:\Users\Thong\Desktop\do an ltan toan\chatcrypt - Copy\cli1\cli1\bin\Debug\cli1.exe.config
+C:\Users\Thong\Desktop\do an ltan toan\chatcrypt - Copy\cli1\cli1\obj\Debug\cli1.exe
+C:\Users\Thong\Desktop\do an ltan toan\chatcrypt - Copy\cli1\cli1\obj\Debug\cli1.pdb
+C:\Users\Thong\Desktop\do an ltan toan\chatcrypt - Copy\cli1\cli1\bin\Debug\cli1.exe
+C:\Users\Thong\Desktop\do an ltan toan\chatcrypt - Copy\cli1\cli1\bin\Debug\cli1.pdb
+C:\Users\Thong\Desktop\do an ltan toan\chatcrypt - Copy\cli1\cli1\obj\Debug\cli1.csprojResolveAssemblyReference.cache
+C:\Users\Thong\Desktop\do an ltan toan\chatcrypt - Copy\cli1\cli1\obj\Debug\cli1.Form1.resources
+C:\Users\Thong\Desktop\do an ltan toan\chatcrypt - Copy\cli1\cli1\obj\Debug\cli1.Properties.Resources.resources
+C:\Users\Thong\Desktop\do an ltan toan\chatcrypt - Copy\cli1\cli1\obj\Debug\cli1.csproj.GenerateResource.Cache
+C:\Users\Thong\Desktop\do an ltan toan\chatcrypt - opt1-con\cli1\cli1\bin\Debug\cli1.exe.config
+C:\Users\Thong\Desktop\do an ltan toan\chatcrypt - opt1-con\cli1\cli1\obj\Debug\cli1.exe
+C:\Users\Thong\Desktop\do an ltan toan\chatcrypt - opt1-con\cli1\cli1\obj\Debug\cli1.pdb
+C:\Users\Thong\Desktop\do an ltan toan\chatcrypt - opt1-con\cli1\cli1\bin\Debug\cli1.exe
+C:\Users\Thong\Desktop\do an ltan toan\chatcrypt - opt1-con\cli1\cli1\bin\Debug\cli1.pdb
+C:\Users\Thong\Desktop\do an ltan toan\chatcrypt - opt1-con\cli1\cli1\obj\Debug\cli1.csprojResolveAssemblyReference.cache
+C:\Users\Thong\Desktop\do an ltan toan\chatcrypt - opt1-con\cli1\cli1\obj\Debug\cli1.Form1.resources
+C:\Users\Thong\Desktop\do an ltan toan\chatcrypt - opt1-con\cli1\cli1\obj\Debug\cli1.Properties.Resources.resources
+C:\Users\Thong\Desktop\do an ltan toan\chatcrypt - opt1-con\cli1\cli1\obj\Debug\cli1.csproj.GenerateResource.Cache
+G:\ltat\chatcrypt - opt1-con\cli1\cli1\bin\Debug\cli1.exe.config
+G:\ltat\chatcrypt - opt1-con\cli1\cli1\obj\Debug\cli1.exe
+G:\ltat\chatcrypt - opt1-con\cli1\cli1\obj\Debug\cli1.pdb
+G:\ltat\chatcrypt - opt1-con\cli1\cli1\bin\Debug\cli1.exe
+G:\ltat\chatcrypt - opt1-con\cli1\cli1\bin\Debug\cli1.pdb
+G:\ltat\chatcrypt - opt1-con\cli1\cli1\obj\Debug\cli1.csprojResolveAssemblyReference.cache
+G:\ltat\chatcrypt - opt1-con\cli1\cli1\obj\Debug\cli1.Form1.resources
+G:\ltat\chatcrypt - opt1-con\cli1\cli1\obj\Debug\cli1.Properties.Resources.resources
+G:\ltat\chatcrypt - opt1-con\cli1\cli1\obj\Debug\cli1.csproj.GenerateResource.Cache
+F:\ltat\chatcrypt - opt1-con\cli1\cli1\bin\Debug\cli1.exe.config
+F:\ltat\chatcrypt - opt1-con\cli1\cli1\obj\Debug\cli1.exe
+F:\ltat\chatcrypt - opt1-con\cli1\cli1\obj\Debug\cli1.pdb
+C:\Users\Thong\Desktop\do an ltan toan\ltat-saphoanthanh\cli1\cli1\bin\Debug\cli1.exe.config
+C:\Users\Thong\Desktop\do an ltan toan\ltat-saphoanthanh\cli1\cli1\obj\Debug\cli1.exe
+C:\Users\Thong\Desktop\do an ltan toan\ltat-saphoanthanh\cli1\cli1\obj\Debug\cli1.pdb
+C:\Users\Thong\Desktop\do an ltan toan\ltat-saphoanthanh - Copy\cli1\cli1\bin\Debug\cli1.exe.config
+C:\Users\Thong\Desktop\do an ltan toan\ltat-saphoanthanh - Copy\cli1\cli1\obj\Debug\cli1.exe
+C:\Users\Thong\Desktop\do an ltan toan\ltat-saphoanthanh - Copy\cli1\cli1\obj\Debug\cli1.pdb
+C:\Users\Thong\Desktop\do an ltan toan\ltat-saphoanthanh - Copy\cli1\cli1\bin\Debug\cli1.exe
+C:\Users\Thong\Desktop\do an ltan toan\ltat-saphoanthanh - Copy\cli1\cli1\bin\Debug\cli1.pdb
+C:\Users\Thong\Desktop\do an ltan toan\ltat-saphoanthanh - Copy\cli1\cli1\obj\Debug\cli1.csprojResolveAssemblyReference.cache
+C:\Users\Thong\Desktop\do an ltan toan\ltat-saphoanthanh - Copy\cli1\cli1\obj\Debug\cli1.Form1.resources
+C:\Users\Thong\Desktop\do an ltan toan\ltat-saphoanthanh - Copy\cli1\cli1\obj\Debug\cli1.Properties.Resources.resources
+C:\Users\Thong\Desktop\do an ltan toan\ltat-saphoanthanh - Copy\cli1\cli1\obj\Debug\cli1.csproj.GenerateResource.Cache
+G:\ltat-saphoanthanh - Copy\cli1\cli1\bin\Debug\cli1.exe.config
+G:\ltat-saphoanthanh - Copy\cli1\cli1\bin\Debug\cli1.exe
+G:\ltat-saphoanthanh - Copy\cli1\cli1\bin\Debug\cli1.pdb
+G:\ltat-saphoanthanh - Copy\cli1\cli1\obj\Debug\cli1.Form1.resources
+G:\ltat-saphoanthanh - Copy\cli1\cli1\obj\Debug\cli1.Properties.Resources.resources
+G:\ltat-saphoanthanh - Copy\cli1\cli1\obj\Debug\cli1.csproj.GenerateResource.Cache
+G:\ltat-saphoanthanh - Copy\cli1\cli1\obj\Debug\cli1.exe
+G:\ltat-saphoanthanh - Copy\cli1\cli1\obj\Debug\cli1.pdb
+G:\ltat-saphoanthanh - Copy\cli1\cli1\obj\Debug\cli1.csprojResolveAssemblyReference.cache
+C:\Users\Thong\Desktop\ltat-saphoanthanh - Copy\cli1\cli1\bin\Debug\cli1.exe.config
+C:\Users\Thong\Desktop\ltat-saphoanthanh - Copy\cli1\cli1\obj\Debug\cli1.exe
+C:\Users\Thong\Desktop\ltat-saphoanthanh - Copy\cli1\cli1\obj\Debug\cli1.pdb
+C:\Users\Thong\Desktop\ltat-saphoanthanh - Copy\cli1\cli1\bin\Debug\cli1.exe
+C:\Users\Thong\Desktop\ltat-saphoanthanh - Copy\cli1\cli1\bin\Debug\cli1.pdb
+C:\Users\Thong\Desktop\ltat-saphoanthanh - Copy\cli1\cli1\obj\Debug\cli1.csprojResolveAssemblyReference.cache
+C:\Users\Thong\Desktop\ltat-saphoanthanh - Copy\cli1\cli1\obj\Debug\cli1.Form1.resources
+C:\Users\Thong\Desktop\ltat-saphoanthanh - Copy\cli1\cli1\obj\Debug\cli1.Properties.Resources.resources
+C:\Users\Thong\Desktop\ltat-saphoanthanh - Copy\cli1\cli1\obj\Debug\cli1.csproj.GenerateResource.Cache
+F:\COMPLETE\cli1\cli1\bin\Debug\cli1.exe.config
+F:\COMPLETE\cli1\cli1\obj\Debug\cli1.exe
+F:\COMPLETE\cli1\cli1\obj\Debug\cli1.pdb
+G:\TTLTAT\COMPLETE\cli1\cli1\bin\Debug\cli1.exe.config
+G:\TTLTAT\COMPLETE\cli1\cli1\obj\Debug\cli1.exe
+G:\TTLTAT\COMPLETE\cli1\cli1\obj\Debug\cli1.pdb
+G:\TTLTAT\COMPLETE\cli1\cli1\obj\Debug\cli1.csprojResolveAssemblyReference.cache
+G:\TTLTAT\COMPLETE\cli1\cli1\obj\Debug\cli1.Form1.resources
+G:\TTLTAT\COMPLETE\cli1\cli1\obj\Debug\cli1.Properties.Resources.resources
+G:\TTLTAT\COMPLETE\cli1\cli1\obj\Debug\cli1.csproj.GenerateResource.Cache
+G:\TTLTAT\COMPLETE\cli1\cli1\bin\Debug\cli1.exe
+G:\TTLTAT\COMPLETE\cli1\cli1\bin\Debug\cli1.pdb
+G:\TTLTAT\COMPLETE\cli1\cli1\obj\Debug\cli1.csproj.CoreCompileInputs.cache
+F:\TTLTAT\COMPLETE\cli1\cli1\bin\Debug\cli1.exe.config
+F:\TTLTAT\COMPLETE\cli1\cli1\obj\Debug\cli1.exe
+F:\TTLTAT\COMPLETE\cli1\cli1\obj\Debug\cli1.pdb
+F:\TTLTAT\COMPLETE\cli1\cli1\bin\Debug\cli1.exe
+F:\TTLTAT\COMPLETE\cli1\cli1\bin\Debug\cli1.pdb
+F:\TTLTAT\COMPLETE\cli1\cli1\obj\Debug\cli1.csprojResolveAssemblyReference.cache
+F:\TTLTAT\COMPLETE\cli1\cli1\obj\Debug\cli1.Form1.resources
+F:\TTLTAT\COMPLETE\cli1\cli1\obj\Debug\cli1.Properties.Resources.resources
+F:\TTLTAT\COMPLETE\cli1\cli1\obj\Debug\cli1.csproj.GenerateResource.Cache
